@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
         fontSize: 15,
         color: "#474747",
         marginTop: 5,
-        fontWeight: "bold",
+        fontWeight: "normal",
         fontFamily: "Montserrat_400Regular",
     },
     text: {
