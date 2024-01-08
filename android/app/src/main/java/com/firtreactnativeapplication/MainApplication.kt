@@ -1,4 +1,4 @@
-package com.ui_designs_react_native_application
+package com.firtreactnativeapplication
 
 import android.app.Application
 import com.facebook.react.PackageList

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "UI_Designs_React_Native_Application.app"
-               BlueprintName = "UI_Designs_React_Native_Application"
-               ReferencedContainer = "container:UI_Designs_React_Native_Application.xcodeproj">
+               BuildableName = "FirtReactNativeApplication.app"
+               BlueprintName = "FirtReactNativeApplication"
+               ReferencedContainer = "container:FirtReactNativeApplication.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "UI_Designs_React_Native_ApplicationTests.xctest"
-               BlueprintName = "UI_Designs_React_Native_ApplicationTests"
-               ReferencedContainer = "container:UI_Designs_React_Native_Application.xcodeproj">
+               BuildableName = "FirtReactNativeApplicationTests.xctest"
+               BlueprintName = "FirtReactNativeApplicationTests"
+               ReferencedContainer = "container:FirtReactNativeApplication.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "UI_Designs_React_Native_Application.app"
-            BlueprintName = "UI_Designs_React_Native_Application"
-            ReferencedContainer = "container:UI_Designs_React_Native_Application.xcodeproj">
+            BuildableName = "FirtReactNativeApplication.app"
+            BlueprintName = "FirtReactNativeApplication"
+            ReferencedContainer = "container:FirtReactNativeApplication.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "UI_Designs_React_Native_Application.app"
-            BlueprintName = "UI_Designs_React_Native_Application"
-            ReferencedContainer = "container:UI_Designs_React_Native_Application.xcodeproj">
+            BuildableName = "FirtReactNativeApplication.app"
+            BlueprintName = "FirtReactNativeApplication"
+            ReferencedContainer = "container:FirtReactNativeApplication.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
