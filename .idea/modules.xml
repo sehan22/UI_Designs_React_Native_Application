@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstReactNativeApplication/FirstReactNativeApplication.iml" filepath="$PROJECT_DIR$/FirstReactNativeApplication/FirstReactNativeApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/React Native UI Design Applications.iml" filepath="$PROJECT_DIR$/React Native UI Design Applications.iml" />
+    </modules>
+  </component>
+</project>

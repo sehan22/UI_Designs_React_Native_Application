@@ -19,7 +19,7 @@ const Home = (props) => {
     <View style={styles.container}>
       <Image source={require("../../src/img/1.png")} style={styles.img} />
 
-      <Text style={styles.title}>Maxi Scooter</Text>
+      <Text style={styles.title}>Maxii Scooter</Text>
 
       <Text style={styles.detail}>
         With and updated motor, and integrated anti-theft touch the mass
@@ -28,7 +28,7 @@ const Home = (props) => {
 
       <TouchableOpacity
         style={styles.btn}
-        onPress={() => props.navigation.navigate("Details")}
+        onPress={() => props.navigation.navigate("Detail")}
       >
         <Text style={styles.text}>Next</Text>
       </TouchableOpacity>
@@ -80,7 +80,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
   text: {
-    fontFamily: "Montserrat_600SemiBold",
+    fontFamily: "Montserrat_700Bold",
     fontSize: 12,
     color: "#FFF",
   }
