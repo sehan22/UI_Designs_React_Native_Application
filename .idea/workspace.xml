@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf47d16c-3451-4827-a942-f7737eee51e8" name="Changes" comment="test commit">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstReactNativeApplication/FirstReactNativeApplication.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React Native UI Design Applications.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstReactNativeApplication/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/FirstReactNativeApplication/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstReactNativeApplication/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/FirstReactNativeApplication/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstReactNativeApplication/src/screens/Detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/FirstReactNativeApplication/src/screens/Detail.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstReactNativeApplication/src/screens/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/FirstReactNativeApplication/src/screens/Home.js" afterDir="false" />
+    <list default="true" id="bf47d16c-3451-4827-a942-f7737eee51e8" name="Changes" comment="First React Native Application UI Completed.">
+      <change beforePath="$PROJECT_DIR$/FirstReactNativeApplication/assets/ApplicationUI.png" beforeDir="false" afterPath="$PROJECT_DIR$/FirstReactNativeApplication/assets/ApplicationUI.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +74,7 @@
       <updated>1704728186602</updated>
       <workItem from="1704728187688" duration="459000" />
       <workItem from="1704728660954" duration="4292000" />
-      <workItem from="1704735761951" duration="3107000" />
+      <workItem from="1704735761951" duration="3934000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <option name="closed" value="true" />
@@ -103,7 +92,31 @@
       <option name="project" value="LOCAL" />
       <updated>1704728609735</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First React Native Application UI Completed.">
+      <option name="closed" value="true" />
+      <created>1704739068773</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704739068773</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First React Native Application UI Completed.">
+      <option name="closed" value="true" />
+      <created>1704739077806</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704739077806</updated>
+    </task>
+    <task id="LOCAL-00005" summary="First React Native Application UI Completed.">
+      <option name="closed" value="true" />
+      <created>1704739808791</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704739808791</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+    <MESSAGE value="First React Native Application UI Completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="First React Native Application UI Completed." />
   </component>
 </project>
